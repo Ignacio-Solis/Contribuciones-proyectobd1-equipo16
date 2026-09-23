@@ -1,1 +1,49 @@
+# Contribución individual -- Etapa 02
+
+**Equipo:** 16
+
+**Integrante:** Solis, Ignacio Emiliano 
+
+**Fecha:** 23-09-2026 
+
+## 1. Aporte realizado
+
+Desarrollo de diagramas “DER” y Diagrama/Transformación al Modelo Relacional con calves primarias (pk) y claves foráneas (fk)
+
+
+## 2. Decisiones en las que participé
+
+Creación de las entidades y atributos correspondientes a cada una de las mismas,
+identificación por medio de sus calves primarias y relaciones entre tablas con sus claves foráneas
+
+## 3. Problemas o dificultades identificadas:
+
+Pequeñas incompatibilidades con las tablas y sus atributos.
+
+## 4. Soluciones o propuestas realizadas
+
+Especificación y normalización gracias al aporte de mis compañeros y propio,
+mediante un análisis en conjunto y charla sobre los modelos realizados.
+
+## 5. Evidencias en el repositorio
+
+Las actividades realizadas pueden comprobarse mediante las siguientes
+evidencias:
+
+- **Commits:**
+-"Diagrama DER":
+- Commit: 36ad4bdc517f979573c161f7b503b3fb80c5fb84 (Enlace): https://github.com/CristiandeJesus05/proyecto-bd1-equipo-16/commit/36ad4bdc517f979573c161f7b503b3fb80c5fb84
+- "Modelo Relacional":
+- Create modelo-relacional.md
+- Commit: fc78156101c406cd7db876c82a89cb5a981626f2 (Enlace): https://github.com/CristiandeJesus05/proyecto-bd1-equipo-16/commit/fc78156101c406cd7db876c82a89cb5a981626f2
+- "Imagen del Modelo Relacional":
+- Commit: c7b38e967df171cb972f0755c83401dd4b3a0309 (Enlace): https://github.com/CristiandeJesus05/proyecto-bd1-equipo-16/commit/c7b38e967df171cb972f0755c83401dd4b3a0309
+- "Especificacion de Cardinalidades":
+- Commit: b72699f279087de0a29b9706adb8add82eee3ab8 (Enlace): https://github.com/CristiandeJesus05/proyecto-bd1-equipo-16/commit/b72699f279087de0a29b9706adb8add82eee3ab8
+- "Especificacion de claves primarias, foraneas y restricciones":
+- Commit: 6dca4aad413dd2e2958ee655041e1f7cbc16c0a4 (Enlace): https://github.com/CristiandeJesus05/proyecto-bd1-equipo-16/commit/6dca4aad413dd2e2958ee655041e1f7cbc16c0a4
+
+## 6. Reflexión individual
+En esta etapa numero 2 del proyecto considero que he desarrollado los conceptos relacionados a los diagramas der, concepto de cardinalidades y su posterior transformación al modelo relacional,
+con claves primarias, foráneas y restricciones como “atributos únicos”, atomización y normalización de las tablas en conjunto con sus atributos.
 
