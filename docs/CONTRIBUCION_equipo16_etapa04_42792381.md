@@ -32,5 +32,5 @@ aqui su commit de traslado del script: 8d1cae438c7d46e4b3752cbec2aab9d22b1b5ea1 
 * Commit: a7424ed0908f7260bb660678082f005182973470 (Enlace): https://github.com/CristiandeJesus05/proyecto-bd1-equipo-16/commit/a7424ed0908f7260bb660678082f005182973470
 
 ## 6. Reflexión individual:
-En esta etapa numero 4 del proyecto grupal destaco el uso de nuevas sentencias y lenguaje SQL: SELECT, INNER JOIN, WHERE, GROUP NY , ORDER BY.
+En esta etapa numero 4 del proyecto grupal destaco el uso de nuevas sentencias y lenguaje SQL: SELECT, INNER JOIN, WHERE, GROUP BY , ORDER BY.
 La correcta relacion entre las tablas y aplicar las funciones de agregacion para obtener la informacion util y deseada.
