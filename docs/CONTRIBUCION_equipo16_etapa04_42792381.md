@@ -16,7 +16,7 @@ La creacion y desarrollo de Script SQL: Declaracion de variables, Seleccion de d
 Inconvenientes a la hora de crear el intervalo entre fechas
 
 ## 4. Soluciones o propuestas realizadas
-Consulta con mis compañeros de trabajo y busqueda de documentacion correcta para desarrollar el script correctamente
+Consulta con mis compañeros de trabajo y busqueda de documentacion para desarrollar el script correctamente
 
 ## 5. Evidencias en el repositorio
 
